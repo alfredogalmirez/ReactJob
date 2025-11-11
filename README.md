@@ -1,3 +1,14 @@
+## React Jobs
+A job listing web app built while following a React crash course.  
+I customized and extended it to understand key concepts like routing, API fetching, and component structure.
+
+### 🧠 Learned:
+- React component structure and props
+- React Router DOM for navigation
+- useState and useEffect for managing data
+- Tailwind CSS for styling
+- JSON Server for mock backend
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
